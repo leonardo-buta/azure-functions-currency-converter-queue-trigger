@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CurrencyApiUrl": "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/{0}/{1}.json"
+  }
+}
